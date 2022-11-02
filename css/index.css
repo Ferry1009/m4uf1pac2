@@ -1,0 +1,43 @@
+#titulo{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 30px;
+}
+
+#foto1{
+    width: 25vw;
+    height: 35vh;
+    margin-left: 10px;
+}
+
+#foto2{
+    width: 25vw;;
+    margin-left: 10px;
+}
+#asideh3{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.sectionh3{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+
+article{
+    float: left;
+    color: white;
+}
+
+aside{
+    float: right;
+    color: white;
+    margin-right: 30px;
+}
+
+footer{
+    clear: both;
+}
+

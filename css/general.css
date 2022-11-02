@@ -1,0 +1,25 @@
+#p2{
+    margin-top: 15px;
+}
+#p3{
+    margin-top: 15px;
+}
+#p4{
+    margin-top: 15px;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 27px;
+    color: white;
+    margin-left: 20px;
+}
+main p{
+    color: white;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 25px;
+    text-align: justify;
+}
+
