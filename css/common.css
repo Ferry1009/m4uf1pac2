@@ -11,7 +11,7 @@
 header{
     
     
-    background-image: url(../img/bonjovisimbolo.jpg);
+    background-image: url("../img/bonjovisimbolo.jpg");
     height: 40vh;
     background-position: center;
     background-size: 65% 90%;
